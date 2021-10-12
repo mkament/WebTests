@@ -16,7 +16,7 @@ public class MainTest {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.manage().window().maximize();
     }
-
+// useless comment
     @Test
             public void testSearches() {
 
